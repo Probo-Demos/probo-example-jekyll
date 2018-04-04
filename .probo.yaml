@@ -1,5 +1,5 @@
 steps:
-  - name: Set docroot
+  - name: Set docroot.
     plugin: LAMPApp
     subDirectory: _site
   - name: Update system
