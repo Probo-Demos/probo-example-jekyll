@@ -9,7 +9,6 @@ permalink:           pretty
 title:               Probo Jekyll Example
 tagline:             Basic example of a Jekyll powered GitHub Pages site with Sass enabled.
 url:                 http://probo-demos.github.io/probo-example-jekyll
-baseurl:             
 
 # Assets
 #
