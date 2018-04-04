@@ -3,12 +3,11 @@ highlighter:         pygments
 
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
 title:               Probo Jekyll Example
-tagline:             Basic example of a Jekyll site with Sass enabled.
+tagline:             Basic example of a Jekyll powered GitHub Pages site with Sass enabled.
 url:                 http://probo-demos.github.io/probo-example-jekyll
 baseurl:             
 
